@@ -1,8 +1,10 @@
-#AkshayDerivesBlog
+# AkshayDerivesBlog
 Welcome to AkshayDerivesBlog, a personal collection of blog posts where I dive into math, physics, machine learning, and other topics that fascinate me. This space is meant to help me think out loud, share intuitive explanations, and connect ideas that I’m exploring or building. Feedback is always welcome—please feel free to open an issue or submit a pull request!
 
 📚 Current Posts
-* [🧠 PINNs: Physics-Informed Neural Networks Explained](https://akshayderives.wordpress.com/2025/06/26/physics-informed-neural-networks-theory/)
+* [PINNs: Physics-Informed Neural Networks Explained](https://akshayderives.wordpress.com/2025/06/26/physics-informed-neural-networks-theory/)
+* [Intuition Behind Chaos Theory and Double Pendulum](https://akshayderives.wordpress.com/2025/07/17/the-double-pendulum/)
+* [Basics of Probability and Likelihood Theory](https://akshayderives.wordpress.com/2025/07/24/probability-and-likelihood-light-math/)
 
 
 🛠 Tech Stack
